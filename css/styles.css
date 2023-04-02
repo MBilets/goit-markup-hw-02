@@ -65,7 +65,7 @@ Body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
-  color: var(--color-navy-blue);
+  color: #2e2f42;
 }
 .header-link {
   font-style: normal;
@@ -126,7 +126,7 @@ Body {
 }
 .hero-header .hero-button:hover,
 .hero-header .hero-button:focus {
-  background-color: var(--color-ocean);
+   background-color: #404BBF;
 }
 
 /**
@@ -190,13 +190,13 @@ Body {
   |============================
 */
 .btn-portfolio {
-  font-family: "Raleway", sans-serif;
   font-size: 16px;
   letter-spacing: 0.04em;
   font-weight: 500;
   line-height: 1.5;
   cursor: pointer;
   color: var(--color-iris);
+  font-family: "Roboto", sans-serif;
   background-color: var(--color-cloud);
 }
 .btn-portfolio:hover,
