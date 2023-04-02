@@ -125,7 +125,7 @@ Body {
 }
 .hero-header .hero-button:hover,
 .hero-header .hero-button:focus {
-  background-color: #404BBF;
+  background-color: var(--color-ocean);
 }
 /**
   |============================
