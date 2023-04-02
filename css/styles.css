@@ -53,7 +53,7 @@ Body {
 
   color: var(--color-iris);
 }
-.header-logo-Studio {
+.header-logo-studio {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 800;
@@ -64,7 +64,6 @@ Body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-
   color: #2e2f42;
 }
 .header-link {
@@ -126,9 +125,8 @@ Body {
 }
 .hero-header .hero-button:hover,
 .hero-header .hero-button:focus {
-   background-color: #404BBF;
+  background-color: #404BBF;
 }
-
 /**
   |============================
   | styles section 3
