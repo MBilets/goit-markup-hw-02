@@ -123,9 +123,9 @@ Body {
   line-height: 1.5;
   cursor: pointer;
 }
-.hero-header .hero-button:hover,
-.hero-header .hero-button:focus {
-  background-color: var(--color-ocean);
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404BBF;
 }
 /**
   |============================
