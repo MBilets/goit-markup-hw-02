@@ -77,7 +77,7 @@ Body {
 .header-nav .header-link:hover,
 .header-nav .header-link:focus {
   color: var(--color-ocean);
-  background-color: #404bbf;
+
 }
 .adrs {
   font-style: normal;
